@@ -36,6 +36,7 @@ import java.util.List;
  * Zoomia en saanut toimimaan ja se alko vituttaa niin että päätin skipata koko homman.
  * Seinien piirtelystä on kommentoitu pois yritelmä, en vaan oo ihan varma onko tommoset sisäkkäiset eventhandlerit
  * ok vai ei. Joka tapauksessa se ei toimi vielä, canvas menee kyllä stackpanen päällimmäiseksi mutta piirto ei skulaa.
+ * Tarjouluehdotus: suositellaan nautittavaksi kaljan kanssa.
  * @Pihla
  */
 
