@@ -24,8 +24,7 @@ public class WallLine {
 
     }
 
-    public WallLine(int type, ArrayList<Double> point1, ArrayList<Double> point2) {
-        this.type = type;
+    public WallLine(ArrayList<Double> point1, ArrayList<Double> point2) {
         this.point1 = point1;
         this.point2 = point2;
     }
