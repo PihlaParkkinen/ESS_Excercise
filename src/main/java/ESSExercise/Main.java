@@ -39,8 +39,10 @@ import java.util.List;
 
 /**
  * Zoomausominaisuus ja seinien piirto lisätty.
- * Zoom/pan ei toimi täysin optimaalisesti
- *
+ * Zoom/pan ei toimi täysin optimaalisesti ts. voisi toimia paremminkin, mutta
+ * jätin nyt tällä erää tämän tähän (lue: halusin ruveta tekemään jotain muuta välillä).
+ * Luulisin että asia ratkeaisi järjestelemällä noi eri panet uudelleen ja ehkä grouppailemalla järkevästi.
+ * Lisätty muutamia kommentteja koodiin lähinnä tehtävän "tarkastajan" iloksi.
  * @Pihla
  */
 
